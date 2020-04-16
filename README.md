@@ -1,6 +1,6 @@
 ## Nanalib
 
-nana lib
+nana library
 
 #### License
 
