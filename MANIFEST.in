@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include nanalib *.css
+recursive-include nanalib *.csv
+recursive-include nanalib *.html
+recursive-include nanalib *.ico
+recursive-include nanalib *.js
+recursive-include nanalib *.json
+recursive-include nanalib *.md
+recursive-include nanalib *.png
+recursive-include nanalib *.py
+recursive-include nanalib *.svg
+recursive-include nanalib *.txt
+recursive-exclude nanalib *.pyc
